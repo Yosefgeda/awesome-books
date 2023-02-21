@@ -38,6 +38,11 @@
   color: brown;
 }
 
+.date-time-holder {
+  text-align: right;
+  margin-right: 10%;
+}
+
 .last-item {
   border-right: 1px solid black;
 }
