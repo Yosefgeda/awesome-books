@@ -1,4 +1,3 @@
-# awesome-books
 # Awesome-books
 
 <a name="readme-top"></a>
@@ -40,7 +39,7 @@
 # 📖 [Awesome-books] <a name="about-project"></a>
 
 
-**[# 📖 [Awesome-books]  Webpag to save and dlelete personal fevorite books.  
+# 📖 [Awesome-books]  Webpage to save and dlelete personal fevorite books.  
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -49,19 +48,19 @@
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
-  <summary>Client</summary>
+  <summary>Structure</summary>
   <ul>
     <li>HTML5</li>
   </ul>
 </details>
 <details>
-  <summary>Client</summary>
+  <summary>Style</summary>
   <ul>
     <li>CSS3</li>
   </ul>
 </details>
 <details>
-  <summary>Client</summary>
+  <summary>Functionality</summary>
   <ul>
     <li>JS</li>
   </ul>
@@ -81,7 +80,7 @@
 <!-- LIVE DEMO -->
 ## 🚀 Live Demo <a name="live-demo"></a>
 
->You can view the final page on the index.html
+>You can view the final page [HERE](https://yosefgeda.github.io/awesome-books/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
