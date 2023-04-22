@@ -38,15 +38,11 @@
 
 # 📖 [Awesome-books] <a name="about-project"></a>
 
-
-# 📖 [Awesome-books]  Webpage to save and dlelete personal fevorite books.  
+Webpage to save and delete personal fevorite books.  
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Structure</summary>
   <ul>
@@ -89,7 +85,7 @@
 <!-- GETTING STARTED -->
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Check the index.html to view the page.
+> Navigate to web page on the list section you can see the books you have added, to add a new book you can navigate to the add book section you can add the author and title of a book.
  
 
 
